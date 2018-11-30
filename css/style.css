@@ -1,0 +1,17 @@
+.holder{
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 300px;
+  border: 1px solid black;
+  
+}
+
+input{
+  
+  margin-bottom: 10px;
+}
+
+.num{
+  margin-bottom: 10px; 
+}
